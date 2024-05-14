@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects Testing"
+title: "Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
-======
+
 
 * **May 2018 - May 2019: Senior Data Scientist, Rogers Communications**
   * Spearheaded the development of a RAG (Retrieval Augmented Generation) pipeline, utilizing the Haystack framework with Lamma 3 as the LLM model. The model would convert user questions into SQL queries and return the result. Empowered executives and non-technical teams, to effortlessly "query" network KPIs from the database.
