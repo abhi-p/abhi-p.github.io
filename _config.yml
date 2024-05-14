@@ -12,7 +12,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Abhishek Paul"
 description              : &description ""
-url                      : https://abhi-p.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://abhi-p.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abhi-p/abhi-p.github.io"
 
@@ -30,7 +30,6 @@ author:
   uri              : # URL
   email            : "abhishek.paul@utexas.edu" 
 
-  # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
