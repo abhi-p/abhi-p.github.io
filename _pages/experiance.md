@@ -1,22 +1,13 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Work Experience"
+permalink: /experience/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
-
-Education
-======
-* Bachelors of Applied Science and Engineering (Computer Engineering), University of Toronto, 2020
-  * GPA: 3.74 on 4.0
-
-* M.S. in Computer Science, The University of Texas at Austin (expected Dec 2024)
-  * GPA: 3.91 out of 4.0 ([Transcript](https://abhi-p.github.io/files/Abhishek_Paul_University_of_Texas_Unofficial_Transcripts.pdf))
-
 
 Work experience
 ======
@@ -48,27 +39,3 @@ Partner-facing product areas.
     * Spearheaded the development of a comprehensive testing and verification framework enabling engineers to validate functionality pre-integration, ensuring seamless deployment to the main chip.
     * Synthesis, timing closure, and formal verification on the block and/or chip level using state-of-the-art CAD tools.
  
-  
-Skills
-======
-* Programming Languages
-  * Python, C++, Java, JavaScript, SQL
-
-Tools
-======
-* Data:
-  * Pandas,  Hadoop, NumPy, Dask, Hugging Face Transeformers
-* Software Development:
-  * Git, Docker, Conda, Streamlit, Flask, JUnit, unittest.
-* Cloud: 
-  * AWS, Azure cloud services
-
-
-Projects
-======
-<i class="fas fa-link" aria-hidden="true"></i>  <a href="https://abhi-p.github.io/projects/">Details and Contribution</a>
-<ul>{% for post in site.projects reversed %}
-  {% include archive-single-short-project.html %}
-{% endfor %}</ul>
-
-
