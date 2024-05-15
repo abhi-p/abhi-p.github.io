@@ -44,7 +44,7 @@ Partner-facing product areas.
     * Developed automation tool for nationwide audit of network parameters. Utilized by all regional teams and reduced OPEX costs by $465 thousand/year and avoided a Capex of $1.3 M. 
 
 
-  * **May 2018 - May 2019: Software Development Engineer Intern, AMD.**
+  * **May 2018 - May 2019: Software Development Engineer Intern, AMD**
     * Spearheaded the development of a comprehensive testing and verification framework enabling engineers to validate functionality pre-integration, ensuring seamless deployment to the main chip.
     * Synthesis, timing closure, and formal verification on the block and/or chip level using state-of-the-art CAD tools.
  
