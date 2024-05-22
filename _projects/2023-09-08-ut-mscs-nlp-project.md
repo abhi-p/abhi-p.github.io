@@ -5,7 +5,7 @@ urlslug: "ut-mscs-nlp-project"
 type: "Academic"
 permalink: /projects/2023-09-08-ut-mscs-nlp-project
 contributors: "Abhishek Paul, Ayush Kumar"
-contribution: "Formulated research question and GROK metric, wrote code to generate abstractive summaries and ran experiments to train hundreds of BiLSTM models on AWS GPUs."
+contribution: "Worked primiarliy on tuning the model with the adversarial challange sets. Assisted in the merging of the prediction in the ensemble-based debiasing method"
 date: 2023-09-08
 teaserurl: 'nlp_project_figures.png'
 reporturl: 'https://abhi-p.github.io/files/Towards_Fair_Text_Classification__Expert_Ensemble_Debiasing_in_NLI.pdf'
