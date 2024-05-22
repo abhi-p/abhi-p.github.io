@@ -18,7 +18,7 @@ redirect_from:
  
  I've had some great experiences working at Rogers Communications as a Senior Data Scientist, where I built cool tools like JARVIS (a RAG chatbot that leverages Meta's Lamma3 in order to query databases and retrive data), forecasting models, sentiment analyis social media montering tools. 
  
- While working I wanted to know more about NLP fundamentals and by Fall 2022 I started my Masters of CS at UT Austin to sharpen skills and am set to graduate in December 2024. Before this I graduated with a Bachelor’s in Computer Engineering from the University of Toronto.
+ While working I wanted to know more about NLP fundamentals and by Fall 2022 I started my Masters of CS at UT Austin to sharpen skills and am set to graduate in June 2024. Before this I graduated with a Bachelor’s in Computer Engineering from the University of Toronto.
 
 *In case the information on this website gets out of date, I last updated it on May 21st, 2024
 

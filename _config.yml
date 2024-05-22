@@ -24,9 +24,9 @@ author:
   avatar           : "profile-resized.jpg"
   name             : "Abhishek Paul"
   pronouns         : # example: "she/her"  
-  bio              : "MSCS student at UT Austin (online)"
+  bio              : "MSCS student at UT Austin"
   location         : "Toronto, Canada"
-  employer         : "University of Texas at Austin"
+  employer         : "Rogers Communications"
   uri              : # URL
   email            : "abhishek.paul@utexas.edu" 
 
