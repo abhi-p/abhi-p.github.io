@@ -24,6 +24,13 @@
           {% endif %}
           alt="">
       </div>
+    {% elsif post.teaserurl contains "youtube.com" or post.teaserurl contains "youtu.be" %}
+    {% assign video_id = post.teaserurl | split: 'v=' | last | split: '&' | first %}
+    {% assign start_time = post.start_time | default: 0 %}
+    
+    <div class="archive__item-teaser">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ video_id }}?start={{ start_time }}" frameborder="0" allowfullscreen></iframe>
+    </div>
     {% elsif post.teaserurl %}
     <div class="archive__item-teaser">
       <img src=
