@@ -12,6 +12,8 @@ permalink: /projects/2019-09-08-music-gneration
 contributors: "Abhishek Paul, Romal Peccia, Donald Lleshi"
 contribution: "On all aspects of the project"
 date: 2017-09-08
+reporturl: 'https://abhi-p.github.io/files/Music_Generation_Final_Report.pdf'
+
 # videourl: "https://www.youtube.com/embed/15sa6OeIWJg"
 # codeurl: 'https://github.com/ARDivekar/SearchDistribute'
 excerpt: "<br /> \
