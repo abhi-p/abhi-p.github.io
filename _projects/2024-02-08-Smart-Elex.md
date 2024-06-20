@@ -15,7 +15,13 @@ reporturl: 'https://abhi-p.github.io/files/SmartElex.pdf'
 
 # videourl: "https://www.youtube.com/embed/15sa6OeIWJg"
 # codeurl: 'https://github.com/ARDivekar/SearchDistribute'
-excerpt: " Chatbot that answers factual questions based on the dense telecom documentation (Ericsson and 3GPP documentation). Allows Radio Engineers to quickly search up information without needing to go through the Ericsson adnd 3GPP documentation
+excerpt: " Chatbot that answers factual questions based on the dense telecom documentation (Ericsson and 3GPP documentation). Created a data pipeline that ingested pdfs, json and html files in order to get encodings. The chatbot consisted of two modes
+
+i) document search which used the multi-qa-mpnet-base-dot-v1 model.
+ii) generative which used the llama-2-7B-chat-hf model
+
+Allows Radio Engineers to quickly search up information without needing to go through the Ericsson adnd 3GPP documentation. 
+
 "
 
 
