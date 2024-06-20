@@ -21,3 +21,15 @@ excerpt: " Chatbot that answers factual questions based on the dense telecom doc
 
 ---
 
+Abhishek Paul
+
+**Description:**
+Chatbot that answers factual questions based on the dense telecom documentation (Ericsson and 3GPP documentation). Created a data pipeline that ingested pdfs, json and html files in order to get encodings. The chatbot consisted of two modes
+
+i) document search which used the multi-qa-mpnet-base-dot-v1 model.
+ii) generative which used the llama-2-7B-chat-hf model
+
+Allows Radio Engineers to quickly search up information without needing to go through the Ericsson adnd 3GPP documentation. 
+
+
+**Resources:** [[Presentation](https://abhi-p.github.io/files/SmartElex.pdf)]
