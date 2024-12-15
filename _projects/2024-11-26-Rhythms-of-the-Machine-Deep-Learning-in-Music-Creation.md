@@ -12,7 +12,7 @@ permalink: /projects/2024-11-26-Rhythms-of-the-Machine-Deep-Learning-in-Music-Cr
 contributors: "Abhishek Paul"
 contribution: "On all aspects of the project"
 date: 2024-11-26
-reporturl: 'https://abhi-p.github.io/files/Music_Generation_Final_Report.pdf'
+reporturl: 'https://abhi-p.github.io/files/Music_Generation_Using_Machine_Learning.pdf'
 
 # videourl: "https://www.youtube.com/embed/15sa6OeIWJg"
 # codeurl: 'https://github.com/ARDivekar/SearchDistribute'
