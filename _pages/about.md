@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- ![Profile Picture](images/profile-4-resized.jpg) -->
 <div style="text-align: center;">
-  <img src="images/torres _del_paine_1.jpg" alt="Profile Picture" style="max-width: 100%; height: auto;">
+  <img src="images/profile-4-resized.jpg" alt="Profile Picture" style="max-width: 100%; height: auto;">
 </div>
 **Summary:**
 
