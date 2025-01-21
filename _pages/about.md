@@ -10,15 +10,11 @@ redirect_from:
 
 <!-- ![Profile Picture](images/profile-4-resized.jpg) -->
 <div style="text-align: center;">
-  <img src="images/profile-4-resized.jpg" alt="Profile Picture" style="max-width: 100%; height: auto;">
+  <img src="images/torres _del_paine_1.jpg" alt="Profile Picture" style="max-width: 100%; height: auto;">
 </div>
 **Summary:**
 
- Hi there! I am Data Scientist/ML Engineer with over four years of experience working with cross-functional teams in building systems that leverage data to deliver tailored solutions into production. Self-motivated and lifelong learner capable of building end-to-end ETL pipelines and ML systems.
- 
- I've had some great experiences working at Rogers Communications as a Senior Data Scientist, where I built cool tools like JARVIS (a RAG chatbot that leverages Meta's Lamma3 in order to query databases and retrive data), forecasting models, sentiment analyis social media montering tools. 
- 
- While working I wanted to know more about NLP fundamentals and by Fall 2022 I started my Masters of CS at UT Austin to sharpen skills and am set to graduate in June 2024. Before this I graduated with a Bachelor’s in Computer Engineering from the University of Toronto.
+Machine Learning Engineer with over 5 years of experience designing and deploying large-scale, high-performance machine learning systems. Proficient in Python, Go, and C++, with expertise in open-source ML frameworks (TensorFlow, PyTorch). Experienced in building and maintaining end-to-end ML pipelines, real-time anomaly detection, and forecasting models. Skilled at collaborating with researchers and stakeholders to develop scalable systems that solve complex problems.
 
 *In case the information on this website gets out of date, I last updated it on May 21st, 2024
 
